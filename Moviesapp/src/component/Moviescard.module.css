@@ -1,0 +1,8 @@
+.movies{
+    background-color: rgb(219,212,212);
+    color: black;
+    border: 1px solid gray;
+    padding: 3px;
+    font-weight: bold;
+    margin-left: 15px;
+}

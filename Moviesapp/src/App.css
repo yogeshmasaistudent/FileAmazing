@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+}
+
+h1{
+  margin: 0px;
+}
+.main{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 14px;
+  /* margin-left: 15px; */
+  /* justify-content: space-evenly; */
+}
